@@ -3,14 +3,14 @@
 ## Tech Stack
 2lambda123/fastai is built on the following main stack:
 
-- [Google App Engine](https://developers.google.com/appengine) – Platform as a Service
 - [Python](https://www.python.org) – Languages
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Google App Engine](https://developers.google.com/appengine) – Platform as a Service
 - [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
 - [Jupyter](http://jupyter.org) – Data Science Notebooks
 - [PyTorch](http://pytorch.org/) – Machine Learning Tools
 - [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -20,14 +20,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/fastai is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/139/s01TMTGn.png' alt='Google App Engine'/> [Google App Engine](https://developers.google.com/appengine) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/139/s01TMTGn.png' alt='Google App Engine'/> [Google App Engine](https://developers.google.com/appengine) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2657/scikit-learn-logo.png' alt='scikit-learn'/> [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
 - <img width='25' height='25' src='https://img.stackshare.io/service/8171/YYpjkbVn_400x400.jpg' alt='PyTorch'/> [PyTorch](http://pytorch.org/) – Machine Learning Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png' alt='Requests'/> [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2657/scikit-learn-logo.png' alt='scikit-learn'/> [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/fastai](https://github.com/2lambda123/fastai)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|01/05/24 <br/>Report generated|
+|12<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
